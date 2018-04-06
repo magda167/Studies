@@ -1,0 +1,6 @@
+﻿  Source1.cpp
+i:\konwerter\konwerter\source1.cpp(4): warning C4018: '<': signed/unsigned mismatch
+  Source.cpp
+  Generating Code...
+  konwerter.vcxproj -> I:\konwerter\Debug\konwerter.exe
+  konwerter.vcxproj -> I:\konwerter\Debug\konwerter.pdb (Full PDB)
